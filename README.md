@@ -19,11 +19,10 @@ To run this project locally:
    ```bash
    git clone https://github.com/YourUsername/CustomDrawerDemo.git
 
-## Demo Video
+## Demo
 
-Watch the demo video to see the app in action:
+Watch the demo to see the app in action:
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/Murodhonov/Custom_Drawer_with_animation/raw/master/video.mp4)
 ![Demo GIF](https://github.com/Murodhonov/Custom_Drawer_with_animation/raw/master/gif.gif)
 
  
